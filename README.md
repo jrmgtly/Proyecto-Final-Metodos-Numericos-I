@@ -9,7 +9,7 @@
 <p align="center">Curso: Programación III </p>
 <p align="center">Catedrático: Ing. José Alfredo González</p>
 <p align="center">José Ricardo Martinez García / 3490-20-19500</p>
-<p align="center">Fer / 3490-xx-xxxxx</p>
+<p align="center">Luisa Fernanda Cuevas Rivera / 3490-24-1226</p>
 
 ```Estado del proyecto```
 
