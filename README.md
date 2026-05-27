@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">Institución: Universidad Mariano Gálvez de Guatemala</p>
-<p align="center">Carrera: Ingeniería en sistemas de la información y ciencias de la computación</p>
+<p align="center">Carrera: Ingeniería en Sistemas de la Información y Ciencias de la Computación</p>
 <p align="center">Curso: Programación III </p>
 <p align="center">Catedrático: Ing. José Alfredo González</p>
 <p align="center">José Ricardo Martinez García / 3490-20-19500</p>
